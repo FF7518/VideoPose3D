@@ -1,0 +1,6 @@
+/checkpoint/
+NOTES.MD
+/Train/
+/Validate/
+*.npz
+*.pyc
